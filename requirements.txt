@@ -1,3 +1,4 @@
 streamlit
 json
 graphviz
+matplotlib
